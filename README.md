@@ -23,7 +23,7 @@ Has more libraries that are good
 Create a computer vision API in azure, and put the URL in the template
 
 ## REST API Key
-Generate a key and add it tot he template
+Generate a key and add it to the template
 
 ## Publish your API
 And add the url to the template
